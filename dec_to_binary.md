@@ -14,3 +14,4 @@ int main(){
 	cout << s;
 }
 ```
+[Run Code](https://ideone.com/1eterN)
