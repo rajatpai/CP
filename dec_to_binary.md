@@ -1,4 +1,7 @@
-'''
+# Finding binary representation of a given number
+
+
+```
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -10,4 +13,4 @@ int main(){
 	s = s.substr(s.find('1'));
 	cout << s;
 }
-'''
+```
